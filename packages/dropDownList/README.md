@@ -1,11 +1,11 @@
-# kendo-ui-react-jquery-dropdownlist
+# kendo-ui-react-jquery-dropdownlist-2
 
 The Kendo UI for jQuery DropDownList widget wrapped as a React component.
 
 ## Install
 
 ```bash
-npm i kendo-ui-react-jquery-dropdownlist
+npm i kendo-ui-react-jquery-dropdownlist-2
 ```
 
 ## Usage Example
@@ -13,7 +13,7 @@ npm i kendo-ui-react-jquery-dropdownlist
 ```javascript
 import React from 'react';
 import ReactDOM from 'react-dom';
-import KendoDropDownList from 'kendo-ui-react-jquery-dropdownlist';
+import KendoDropDownList from 'kendo-ui-react-jquery-dropdownlist-2';
 
 //Don't forget CSS, webpack used to include CSS
 import 'kendo-ui-core/css/web/kendo.common.core.min.css';

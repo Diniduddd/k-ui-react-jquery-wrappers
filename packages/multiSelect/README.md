@@ -1,11 +1,11 @@
-# kendo-ui-react-jquery-multiselect
+# kendo-ui-react-jquery-multiselect-2
 
 The Kendo UI for jQuery MultiSelect widget wrapped as a React component.
 
 ## Install
 
 ```bash
-npm i kendo-ui-react-jquery-multiselect
+npm i kendo-ui-react-jquery-multiselect-2
 ```
 
 ## Usage Example
@@ -13,7 +13,7 @@ npm i kendo-ui-react-jquery-multiselect
 ```javascript
 import React from 'react';
 import ReactDOM from 'react-dom';
-import KendoMultiSelect from 'kendo-ui-react-jquery-multiselect';
+import KendoMultiSelect from 'kendo-ui-react-jquery-multiselect-2';
 
 //Don't forget CSS, webpack used to include CSS
 import 'kendo-ui-core/css/web/kendo.common.core.min.css';
