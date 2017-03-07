@@ -1,6 +1,6 @@
 {
-  "name": "kendo-ui-react-jquery-button",
-  "version": "1.0.4",
+  "name": "kendo-ui-react-jquery-button-2",
+  "version": "2.0.0",
   "description": "The Kendo UI for jQuery Button widget wrapped as a React component.",
   "main": "./dist/index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "deep-diff": "^0.3.4",
-    "kendo-ui-core": "^2016.3.914",
+    "kendo": "git+https://bower.telerik.com/npm-kendo-ui.git#2016.3.914",
     "react": "^15.3.2",
     "react-dom": "^15.3.2"
   },

@@ -1,5 +1,5 @@
 // import/require dependencies
-import kuiButton from 'kendo-ui-core/js/kendo.button.js';
+import kuiButton from 'kendo/js/kendo.button.js';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import deepDiff from 'deep-diff';

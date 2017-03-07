@@ -5,7 +5,7 @@ The Kendo UI for jQuery Button widget wrapped as a React component.
 ## Install
 
 ```bash
-npm i kendo-ui-react-jquery-button
+npm i kendo-ui-react-jquery-button-2
 ```
 
 ## Usage Example
@@ -13,7 +13,7 @@ npm i kendo-ui-react-jquery-button
 ```javascript
 import React from 'react';
 import ReactDOM from 'react-dom';
-import KendoButton from 'kendo-ui-react-jquery-button';
+import KendoButton from 'kendo-ui-react-jquery-button-2';
 
 //Don't forget CSS, webpack used to include CSS
 import 'kendo-ui-core/css/web/kendo.common.core.min.css';
