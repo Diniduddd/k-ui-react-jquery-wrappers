@@ -1,5 +1,5 @@
 // import/require dependencies
-import kuiDropDownList from 'kendo-ui-core/js/kendo.dropdownlist.js';
+import kuiDropDownList from 'kendo/js/kendo.dropdownlist.js';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import deepDiff from 'deep-diff';

@@ -1,5 +1,5 @@
 // import/require dependencies
-import kuiMultiSelect from 'kendo-ui-core/js/kendo.multiselect.js';
+import kuiMultiSelect from 'kendo/js/kendo.multiselect.js';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import deepDiff from 'deep-diff';

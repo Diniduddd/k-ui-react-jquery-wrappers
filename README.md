@@ -1,5 +1,11 @@
 # Kendo UI (for jQuery) React Component Wrappers
 
+This a fork taken from [https://github.com/codylindley/k-ui-react-jquery-wrappers](https://github.com/codylindley/k-ui-react-jquery-wrappers)
+ 
+Seems like the original repo is no longer maintained.
+
+This code contains changes needed for use this Wrappers with kendo professional version
+
 React component wrappers (around Kendo UI) that you can include via npm so that [Kendo UI for jQuery widgets](http://demos.telerik.com/kendo-ui/) can be used in a React app.
 
 Read more about it here: [http://developer.telerik.com/featured/using-kendo-ui-jquery-react-app/](http://developer.telerik.com/featured/using-kendo-ui-jquery-react-app/)
